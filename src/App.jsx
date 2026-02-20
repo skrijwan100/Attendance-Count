@@ -7,7 +7,6 @@ import QRScanner from './components/Attend'
 
 function App() {
   const [count, setCount] = useState(0)
-
   return (
     <>
       {/* <Attend/> */}
@@ -15,5 +14,4 @@ function App() {
     </>
   )
 }
-
 export default App
